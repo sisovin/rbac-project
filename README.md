@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project implements Role-Based Access Control (RBAC) Authorization. It includes a backend API for handling authentication and authorization, and a frontend application for user interaction.
+
 ---
 
 ### **Final RBAC Project Structure**
